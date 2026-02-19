@@ -140,5 +140,4 @@ vendordiff.patch
 
 # Amp
 CLAUDE.md
-patterns.md
-SKILL.md
+.claude/skills/
